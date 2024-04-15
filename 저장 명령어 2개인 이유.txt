@@ -1,0 +1,3 @@
+git add - 저장할 파일을 지정
+git commit -m"" - 실제로 저장
+파일 여러개 한 번에 저장 git add . 
